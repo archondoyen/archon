@@ -65,7 +65,12 @@ public class IndexController {
 
     @RequestMapping(value = "/adminIndex.do")
     public   String   adminIndex(){
-
+        System.out.println("gitHub!");
+        System.out.println("gitHub!");
+        System.out.println("gitHub!");
+        System.out.println("gitHub!");
+        System.out.println("gitHub!");
+        System.out.println("gitHub!");
      return  null;
     }
 }
