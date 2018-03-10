@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="archon:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="archon-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="archon:war exploded" />
+    </root>
+  </artifact>
+</component>
